@@ -1,27 +1,66 @@
-# Order Management System (Oracle SQL)
+# 🛒 Order Management System (Oracle SQL)
 
-## Objective
-To design and implement a relational Order Management System using Oracle SQL, focusing on database design, data integrity, and business reporting.
+## 📌 Overview
+A relational Order Management System built using Oracle SQL to manage customers, products, orders, and order items efficiently.  
+Focuses on database design, normalization, and business reporting.
 
-## Database Tables
-- customers
-- products
-- orders
-- order_items
+---
 
-## Key SQL Concepts Used
+## 🎯 Objective
+- Design a normalized relational database
+- Maintain data integrity using constraints
+- Build real-world business queries
+
+---
+
+## 🗂️ Database Tables
+- customers  
+- products  
+- orders  
+- order_items  
+
+---
+
+## 🧠 Key SQL Concepts Used
 - CREATE TABLE, PRIMARY KEY, FOREIGN KEY
-- CHECK and NOT NULL constraints
-- INNER JOIN and LEFT JOIN
-- GROUP BY and aggregate functions
-- Data validation and integrity
+- CHECK & NOT NULL constraints
+- INNER JOIN, LEFT JOIN
+- GROUP BY & aggregate functions
+- Data validation rules
 
-## Business Queries Implemented
-- Customer-wise order details
-- Order-wise total amount calculation
+---
+
+## 📊 Business Queries Implemented
+- Customer order history
+- Total order value per customer
 - Best-selling products
 - Customers with no orders
 
-## Tools
+---
+
+## 📁 Repository Structure
+
+---
+
+## ⚙️ Tools Used
 - Oracle SQL Developer
 
+---
+
+## ⭐ Features
+- Normalized database design
+- Strong data integrity rules
+- Realistic business queries
+- Scalable schema design
+
+---
+
+![Oracle SQL](https://img.shields.io/badge/Database-Oracle%20SQL-red)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+
+---
+![Banner](https://your-image-link.com/banner.png)
+
+git add README.md
+git commit -m "Improved README with structured documentation"
+git push origin main
