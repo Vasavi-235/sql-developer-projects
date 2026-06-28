@@ -53,14 +53,3 @@ Focuses on database design, normalization, and business reporting.
 - Realistic business queries
 - Scalable schema design
 
----
-
-![Oracle SQL](https://img.shields.io/badge/Database-Oracle%20SQL-red)
-![Status](https://img.shields.io/badge/Status-Completed-green)
-
----
-![Banner](https://your-image-link.com/banner.png)
-
-git add README.md
-git commit -m "Improved README with structured documentation"
-git push origin main
